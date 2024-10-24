@@ -1,0 +1,13 @@
+UI & Styling	React, Tailwind CSS, Headless UI
+Routing & Forms	React Router, React Hook Form
+State Management	Zustand, React Query
+HTTP Requests	Axios
+Real-Time Updates	Socket.IO
+Offline Capabilities	PWA, Service Workers, LocalStorage
+Database	MySQL (temporary), PostgreSQL (later), Prisma supabase
+Authentication	JWT bcryptjs
+Employee Scheduling	Custom, with visual calendar (react-big-calendar)
+Push Notifications	Firebase Cloud Messaging or OneSignal
+Charting	Recharts
+Date/Time Handling	Moment.js
+AI (future)	TensorFlow.js, OpenAI API
