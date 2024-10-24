@@ -37,7 +37,7 @@ export default function Profile() {
           <div className="pt-0 p-4 sm:pt-0 sm:p-7">
             <div className="space-y-4 sm:space-y-6">
               <div>
-                <label className="sr-only">Product photo</label>
+                <label className="sr-only">Profile Photo</label>
 
                 <div className="flex flex-col sm:flex-row sm:items-center sm:gap-x-5">
                   <img
