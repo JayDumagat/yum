@@ -19,11 +19,15 @@ import Browse from "../src/pages/ordering/Browse";
 import Cart from "../src/pages/ordering/Cart";
 import OrderingCheckout from "../src/pages/ordering/Checkout";
 import OrderingOrders from "../src/pages/ordering/Orders";
+import C2C from "../src/pages/ordering/C2C";
+
 const App = () => (
   <Router>
     <Routes>
       <Route path="/" element={<Home />} />
 
+     
+      <Route path="/C2C" element={<C2C />} />
       <Route path="/register" element={<Register />} />
       <Route path="/menu-items" element={<MenuItems />} />
       <Route path="/login" element={<Login />} />
